@@ -1,0 +1,46 @@
+#name,#des,#file,#submit,select{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+#vc,#cap{
+    width: 49%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+    text-align: center;
+}
+.m{
+    width: 49%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+    text-align: center;
+}
+
+#submit{
+    background-color: darkcyan;
+    color: white;
+    font-size: 20px;
+}
+#table{
+    border: 1px  darkcyan;
+}
+
+#err{
+    color: red;
+}
